@@ -14,3 +14,4 @@ insert_final_newline = false
 [source]
 indent_size = 1
 max_line_length = 100
+text_aline=center
